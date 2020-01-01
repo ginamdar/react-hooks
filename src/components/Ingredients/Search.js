@@ -10,8 +10,8 @@ const Search = React.memo(props => {
 
     useEffect(() => {
         const timer = setTimeout(() => {
-            if (enteredFilter === inputRef.current.value) {
-                const queryParams = enteredFilter.length <= 3 ? '' : `?orderBy=\"title\"&equalTo=\"${enteredFilter}\"`;
+            if (enteredFilter === inputRef.current.value && enteredFilter.length > 3) {
+                const queryParams = `?orderBy="title"&equalTo="${enteredFilter}"`;
                 fetch(`https://react-hooks-3a4bc.firebaseio.com/ingredients.json${queryParams}`, {
                     headers:{
                         'Content-Type': 'application/json'
