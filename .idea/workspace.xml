@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7496044-e090-498b-bee6-6c797d826953" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Context/auth-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/http.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Ingredients/IngredientForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ingredients/IngredientForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Ingredients/IngredientList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ingredients/IngredientList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Ingredients/Ingredients.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ingredients/Ingredients.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Ingredients/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ingredients/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/ErrorModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/ErrorModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/http.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577645376048</updated>
-      <workItem from="1577645377230" duration="17666000" />
+      <workItem from="1577645377230" duration="27330000" />
     </task>
     <servers />
   </component>
@@ -93,15 +86,20 @@
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
     <state width="1894" height="271" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1577645422256" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1577903418453">
+    <state width="625" height="500" key="SwitcherDM" timestamp="1577920981385">
       <screen x="1536" y="0" width="1920" height="1080" />
     </state>
-    <state width="625" height="500" key="SwitcherDM/-1920.197.1920.1080/1536.0.1920.1080/0.0.1536.960@1536.0.1920.1080" timestamp="1577903418453" />
+    <state width="625" height="500" key="SwitcherDM/-1920.197.1920.1080/1536.0.1920.1080/0.0.1536.960@1536.0.1920.1080" timestamp="1577920981385" />
     <state width="625" height="500" key="SwitcherDM/-1920.197.1920.1080/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1577825404784" />
     <state width="625" height="500" key="SwitcherDM/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1577761990367" />
-    <state x="2333" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1577825371766">
-      <screen x="1792" y="0" width="1920" height="1080" />
+    <state x="2101" y="79" width="789" height="921" key="find.popup" timestamp="1577921774123">
+      <screen x="1536" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2101" y="79" width="789" height="921" key="find.popup/-1920.197.1920.1080/1536.0.1920.1080/0.0.1536.960@1536.0.1920.1080" timestamp="1577921774123" />
+    <state x="2077" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1577921216227">
+      <screen x="1536" y="0" width="1920" height="1080" />
     </state>
     <state x="2333" y="48" width="838" height="1032" key="search.everywhere.popup/-1920.197.1920.1080/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1577825371766" />
+    <state x="2077" y="48" width="838" height="1032" key="search.everywhere.popup/-1920.220.1920.1057/1536.0.1920.1080/0.23.1536.937@1536.0.1920.1080" timestamp="1577921216227" />
   </component>
 </project>
